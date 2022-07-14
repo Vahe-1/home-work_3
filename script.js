@@ -244,6 +244,7 @@ console.log(foo.returnsResult())
 // //mkdir Workshop_4
 // // 2. make that folder into git repo
 // //  git init
+    // git commit --allow-empty -m "Empty-Commit"
 // // 2. create a branch called rename_me
 // //  git branch rename_me
 // // 3. create a branch called delete_me
