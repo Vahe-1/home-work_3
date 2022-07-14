@@ -235,7 +235,7 @@ console.log(foo.returnsResult())
 // // 9)
 
 // // 1. Create a folder called Workshop_4 make a git repository inside.
-// // mkdir Workshop_4, cd Workshop_4, git init
+// // mkdir Workshop_4, cd Workshop_4, git init git commit --allow-empty -m "Empty-Commit"
 // // 2. without navigating to a different branch create a branch named x_branch
 // // git branch x_branch
 
