@@ -105,14 +105,6 @@ function foo(arr) {
 
 foo(objArr)[0].logName();
 
-function foo(a) {
-    foo.count = (foo.count || 0) + a;
-    return foo;
-}
-
-const {count} = foo(1)(2)(3);
-console.log(count);
-
 // // 5
 
 // // use foreach method and use arrayOfObjectNames function to log the fallowing objects names from the array;
